@@ -1,0 +1,41 @@
+h1 {
+	background: red;
+}
+
+h1,div {
+	font-weight: bold;
+	}
+
+	div > p {
+		border: 1px solid green;
+	}
+div + p {
+	border: 1px solid pink;
+}
+
+.intro {
+	background: yellow;
+}
+
+p.hometown {
+	background: yellow;
+}
+
+p.center {
+	text-align: center;
+	color: red;
+}
+
+p.large {
+	font-size: 30px;
+}
+
+.link {
+	text-decoration: none;
+	display: inline-block;
+}
+
+.link:hover {
+	background-color: red;
+	text-decoration: underline;
+}
