@@ -1,0 +1,80 @@
+body, html {
+	height: 100%;
+}
+
+.all-content {
+	background-color: red;
+	margin: 0 auto;
+	max-width: 900px;
+	min-height: 100%;
+}
+
+.big-title {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+.prvy-stvorec {
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+}
+.zeleny-stvorec {
+	background-color: green;
+	border: 1px solid yellow;
+	padding-bottom: 98px;
+	/* alebo bez paddingu height: 98px;
+	width: 98px;*/
+}
+
+
+.big-title-dva {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.druhy-stvorec {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
+
+.modry-stvorec {
+	background-color: blue;
+	border: 1px solid white;
+}
+.modry-stvorec-jedna {
+	height: 60px;
+	width: 60px;
+	margin: 20px;
+}
+.modry-stvorec-dva {
+	height: 60px;
+	width: 40px;
+	margin: 20px auto;
+}
+
+.modry-stvorec-tri {
+	height: 40px;
+	width: 20px;
+	margin: 20px 0px 0px 50px;
+	
+}
+
+.kacicka {
+	border: 1px solid black;
+	width: 330px;
+	height: 217px;
+}
+
+
+
+
+
+
+
+
+
+
+
