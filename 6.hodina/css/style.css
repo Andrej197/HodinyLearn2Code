@@ -1,0 +1,242 @@
+html,body {
+	height: 100%;
+}
+
+body {
+	word-wrap: break-word;
+	word-break: break-word;
+	background-color: black;
+}
+
+a {
+	user-select: none;
+	text-decoration: none;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+.all-content {
+	border: 3px solid white;
+	margin: 100px 200px 70px 250px;
+}
+
+.nadpis {
+	color: white;
+	text-align: center;
+	padding: 30px;
+	border-bottom: 3px solid white;
+}
+
+.link-jedna {
+	color: white;
+	text-align: center;
+	display: block;
+	padding: 10px;
+}
+
+.link-jedna:hover {
+	background-color: white;
+	text-decoration: underline;
+	color: black;
+}
+
+.zoznam {
+	color:yellow;
+	display: flex;
+}
+
+.druha-polozka-link {
+	color: white;
+}
+.druha-polozka {
+	padding-left: 30px;
+}
+
+.tretia-polozka {
+	padding-left: 30px;
+}
+
+.prvy-rad {
+	float: left;
+	width: calc(100%/3);
+}
+
+.prvy-rad-prvy-box {
+	
+	height: 30px;
+	background-color: red;
+
+}
+
+.odstavec-jedna-jedna {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	margin: 6px 10px;
+	font-weight: bold;
+	
+}
+
+.prvy-rad-druhy-box {
+	
+	height: 60px;
+	background-color: blue;
+	
+}
+
+.odstavec-jedna-dva {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	margin: 20px 10px;
+	font-weight: bold;
+}
+
+.prvy-rad-treti-box {
+	
+	height: 90px;
+	background-color:green;
+}
+
+.odstavec-jedna-tri {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	margin: 40px 10px;
+	font-weight: bold;
+}
+
+.druhy-rad {
+ float: left;
+	width: calc(100%/3);
+}
+
+.druhy-rad-prvy-box {
+	
+	height: 90px;
+	background-color: red;
+
+}
+
+.odstavec-dva-jedna {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-left: 10px;
+	
+}
+
+.druhy-rad-druhy-box {
+	
+	height: 90px;
+	background-color: blue;
+	
+}
+
+.odstavec-dva-dva {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+.druhy-rad-treti-box {
+	
+	height: 90px;
+	background-color:green;
+}
+
+.odstavec-dva-tri {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 45px;
+	margin-left: 10px;
+}
+
+.rad-tri {
+	margin-top: 20px;
+	display: flex;
+	width: 100%;
+}
+
+.treti-rad-prvy-box {
+	
+	height: 30px;
+	background-color: red;
+
+}
+
+.odstavec-tri-jedna {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-left: 10px;
+	
+}
+
+.treti-rad-druhy-box {
+	
+	height: 60px;
+	background-color: blue;
+	
+}
+
+.odstavec-tri-dva {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+.treti-rad-treti-box {
+	
+	height: 90px;
+	background-color:green;
+}
+
+.odstavec-tri-tri {
+	color: black;
+	background-color: white;
+	width: 300px;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
