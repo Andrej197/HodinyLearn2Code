@@ -1,0 +1,44 @@
+
+.main-content {
+	max-width: 600px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.kacicka {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin: 10px;}
+
+.first-pic {
+	float: right;
+}
+
+.second-pic {
+	float: left;
+}
+
+.header, footer {
+	background-color: grey;
+	color: white;
+	padding: 10px;
+}
+
+.menu	{
+	float: left;
+	padding: 10px;
+	width: 25%;
+}
+
+.list-li {
+	color: white;
+	background-color: red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.box-content {
+	padding: 10px;
+	margin-bottom: 80px;
+}

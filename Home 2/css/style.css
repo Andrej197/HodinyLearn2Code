@@ -1,0 +1,90 @@
+
+.topmenu {
+    background-color: grey;
+}
+
+.topmenu li {
+    float: left;
+}
+
+.topmenu li a {
+    display: inline-block;
+    color: white;
+    padding: 15px;
+}
+
+.clearfix-one::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.topmenu li a:hover {
+    background-color: black;
+}
+
+.topmenu li a:active {
+    background-color: green;
+}
+
+.inside-box {
+    float: left;
+    padding: 15px;
+}
+
+.clearfix-two::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.sidemenu {
+    width: 25%;
+}
+
+.sidemenu li a {
+    color: grey;
+    background-color: gainsboro;
+    padding: 10px;
+    margin-bottom: 3px;
+    display: block;
+}
+
+.sidemenu li a:hover {
+    color: white;
+    background-color: darkgrey;
+}
+
+.sidemenu li a:active {
+    background-color: #69c;
+}
+
+.content {
+    width: 75%;
+    padding: 20px;
+}
+
+.header {
+    background-color: #29c;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+.footer {
+    color: white;
+    background-color: #434d56;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
