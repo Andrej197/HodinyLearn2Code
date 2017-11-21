@@ -78,9 +78,15 @@
     padding: 15px;
 }
 
+.nadpis {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
 
-
-
+.nadpis-cast {
+    color: red;
+}
 
 
 

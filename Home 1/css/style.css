@@ -1,6 +1,10 @@
 
-.main-content {
+body {
 	max-width: 600px;
+	margin: 10px auto;
+}
+
+.main-content {
 	border: 1px solid black;
 	margin: 0 auto;
 }
@@ -42,3 +46,13 @@
 	padding: 10px;
 	margin-bottom: 80px;
 }
+
+p::first-letter {
+	color: red;
+	font-size: 30px;
+}
+
+
+
+
+

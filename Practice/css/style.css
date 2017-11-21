@@ -1,0 +1,99 @@
+
+.container {
+	background: #000;
+	height: 500px;
+	width: 1000px;
+	margin: 50px auto;
+	position: relative;
+}
+
+.box {
+	position: absolute;
+	width: 150px;
+	height: 150px;
+}
+
+.grey {
+	z-index: 1;
+	background: grey;
+	top: 0;
+	left: 0;
+}
+
+.red {
+	z-index: 2;
+	background: red;
+	top: 20px;
+	left: 20px;
+}
+
+.light-blue {
+	z-index: 3;
+	background: lightblue;
+	top: 40px;
+	left: 40px;
+}
+
+.blue {
+	z-index: 4;
+	background: blue;
+	top: 60px;
+	left: 60px;
+}
+
+.pink {
+	z-index: 5;
+	background: pink;
+	top: 80px;
+	left:80px;
+}
+
+.yellow {
+	z-index: 6;
+	background: yellow;
+	top: 100px;
+	left: 100px;
+}
+
+.green {
+  position: fixed;
+  z-index: 7;
+  background-color: #23B14D;
+  left: 100px;
+  top: 100px;
+ }
+
+.box:hover {
+	z-index: 10;
+}
+
+h1, a {
+	background: yellow;
+	font-size: 50px;
+	border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
